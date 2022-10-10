@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Coding](https://raw.githubusercontent.com/weekdaycare/weekdaycare/main/assets/github-contribution-grid-snake.svg)
+
 <!--
 **weekdaycare/weekdaycare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
