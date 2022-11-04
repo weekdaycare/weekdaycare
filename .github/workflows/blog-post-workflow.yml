@@ -1,20 +1,17 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Latest blog post workflow
-
 on:
-  repository_dispatch:
-    # 这里的类型是可以自定义的，我将它起名为：special_repository
-    types: [special_repository]
-  workflow_dispatch:
+  schedule: # Run workflow automatically
+    - cron: '0 0 */2 * *' # Runs every 2 days
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://weekdaycare.github.io/atom.xml"
-          max_post_count: 7
+          feed_list: "https://weekdaycare.cn/atom.xml"
