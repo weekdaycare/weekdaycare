@@ -1,8 +1,24 @@
-## 我的卡片
+<h2 align="center">我的卡片</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weekdaycare) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=weekdaycare&locale=zh&date_format=%5BY.%5Dn.j)
+![](https://komarev.com/ghpvc/?username=weekdaycare)
 
-<div align="center"><img src="https://raw.githubusercontent.com/weekdaycare/weekdaycare/main/assets/github-contribution-grid-snake.svg" /></div>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=weekdaycare">
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=weekdaycare&locale=zh&date_format=%5BY.%5Dn.j">
+</p>
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=weekdaycare&theme=redical">
+</p>
+
+<h2 align="center">感谢以下项目</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
