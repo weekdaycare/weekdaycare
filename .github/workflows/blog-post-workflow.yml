@@ -1,0 +1,19 @@
+# special_repository.yml
+name: Latest blog post workflow
+
+on:
+  repository_dispatch:
+    # 这里的类型是可以自定义的，我将它起名为：special_repository
+    types: [special_repository]
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://weekdaycare.github.io/atom.xml"
+          max_post_count: 10
