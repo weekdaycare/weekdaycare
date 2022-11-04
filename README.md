@@ -1,4 +1,6 @@
-## 贪吃蛇
+## 我的卡片
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weekdaycare) ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=weekdaycare&locale=zh&date_format=%5BY.%5Dn.j)
 
 <div align="center"><img src="https://raw.githubusercontent.com/weekdaycare/weekdaycare/main/assets/github-contribution-grid-snake.svg" /></div>
 
