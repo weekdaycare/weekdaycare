@@ -2,38 +2,19 @@
 
 name: Latest blog post workflow
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-  #   push:
-  #     branches: [ main ]
-  #   pull_request:
-  #     branches: [ main ]
-  #   schedule: # Run workflow automatically
-  #     - cron: '0 3 * * *' 
   repository_dispatch:
-    types: [update_profile]
-
-  # Allows you to run this workflow manually from the Actions tab
+    # 这里的类型是可以自定义的，我将它起名为：special_repository
+    types: [special_repository]
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   update-readme-with-blog:
-    name: Update README with latest blog posts
-    # The type of runner that the job will run on
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Checkout
-        uses: actions/checkout@v2
-
-      # Runs a single command using the runners shell
-      - name: Update posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://weekdaycare.cn/atom.xml"
+          feed_list: "https://weekdaycare.github.io/atom.xml"
           max_post_count: 7
