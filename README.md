@@ -1,6 +1,8 @@
+## 贪吃蛇
+
 <div align="center"><img src="https://raw.githubusercontent.com/weekdaycare/weekdaycare/main/assets/github-contribution-grid-snake.svg" /></div>
 
-### 最近博文更新
+## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
 - [Stellar更新&amp;备份](http://weekdaycare.cn/posts/stellar-update/)
 - [Stellar动态友链教程](http://weekdaycare.cn/posts/stellar-friends/)
