@@ -11,6 +11,4 @@
 - [Stellar内嵌blob小表情](http://weekdaycare.cn/posts/emoji-blob/)
 - [Stellar滚动框美化](http://weekdaycare.cn/posts/stellar-beautify-one/)
 - [inkrss：优雅的实现rss更新通知](http://weekdaycare.cn/posts/inkrss/)
-- [引体向上：从0到1](http://weekdaycare.cn/posts/yingti-0to1/)
-- [大橘](http://weekdaycare.cn/posts/big-orange/)
 <!-- BLOG-POST-LIST:END -->
