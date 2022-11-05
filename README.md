@@ -1,18 +1,18 @@
-<h2 align="center">我的卡片</h2>
+<h2>我的卡片</h2>
 
 ![](https://komarev.com/ghpvc/?username=weekdaycare)
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=weekdaycare">
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=weekdaycare&locale=zh&date_format=%5BY.%5Dn.j">
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=weekdaycare" width=350px/>
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=weekdaycare&locale=zh&date_format=%5BY.%5Dn.j" width=350px/>
 </p>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=weekdaycare&theme=redical">
+<p>
+ <img src="https://activity-graph.herokuapp.com/graph?username=weekdaycare&theme=redical" width=700px/>
 </p>
 
-<h2 align="center">感谢以下项目</h2>
-<p align="center">
+<h2>感谢以下项目</h2>
+<p>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
