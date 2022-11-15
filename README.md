@@ -18,9 +18,9 @@
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
+- [用奇异值压缩图像](http://weekdaycare.cn/posts/singular-value/)
+- [失败的手指围巾](http://weekdaycare.cn/posts/finger-scarf/)
 - [十年之约](http://weekdaycare.cn/posts/ten-years/)
 - [Stellar更新&amp;备份](http://weekdaycare.cn/posts/stellar-update/)
 - [Stellar动态友链教程](http://weekdaycare.cn/posts/stellar-friends/)
-- [Stellar内嵌blob小表情](http://weekdaycare.cn/posts/emoji-blob/)
-- [Stellar滚动框美化](http://weekdaycare.cn/posts/stellar-beautify-one/)
 <!-- BLOG-POST-LIST:END -->
