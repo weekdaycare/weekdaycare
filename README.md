@@ -18,9 +18,9 @@
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
+- [改个邮箱引发的惨案](http://weekdaycare.cn/posts/mail-massacre/)
 - [冬天的炉火](http://weekdaycare.cn/posts/brazier/)
 - [来一杯乌龙茶？](http://weekdaycare.cn/posts/past-summer/)
 - [用奇异值压缩图像](http://weekdaycare.cn/posts/singular-value/)
 - [失败的手指围巾](http://weekdaycare.cn/posts/finger-scarf/)
-- [十年之约](http://weekdaycare.cn/posts/ten-years/)
 <!-- BLOG-POST-LIST:END -->
