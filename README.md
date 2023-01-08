@@ -12,10 +12,6 @@
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=weekdaycare&locale=zh&date_format=%5BY.%5Dn.j" width=360px/>
 </p>
 
-<p>
- <img src="https://activity-graph.herokuapp.com/graph?username=weekdaycare&theme=redical" width=720px/>
-</p>
-
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
 - [你被骗了，但是树莓派](http://weekdaycare.cn/posts/rickroll-pi/)
