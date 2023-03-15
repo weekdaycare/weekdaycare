@@ -14,9 +14,9 @@
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
+- [千年古都，常来长安](http://weekdaycare.cn/posts/changan/)
 - [回老家](http://weekdaycare.cn/posts/hometown/)
 - [你被骗了，但是树莓派](http://weekdaycare.cn/posts/rickroll-pi/)
 - [改个邮箱引发的惨案](http://weekdaycare.cn/posts/mail-massacre/)
 - [冬天的炉火](http://weekdaycare.cn/posts/brazier/)
-- [来一杯乌龙茶？](http://weekdaycare.cn/posts/past-summer/)
 <!-- BLOG-POST-LIST:END -->
