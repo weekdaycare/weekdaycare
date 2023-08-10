@@ -1,12 +1,4 @@
 ## 一些卡片
-
-![](https://komarev.com/ghpvc/?username=weekdaycare)
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/Replit-DD1200?style=flat&logo=Replit&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
-
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=weekdaycare" width=360px/>
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=weekdaycare&locale=zh&date_format=%5BY.%5Dn.j" width=360px/>
