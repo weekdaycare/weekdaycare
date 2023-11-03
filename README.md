@@ -6,9 +6,9 @@
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
+- [Fiddler抓包替换ZUI字体](http://weekdaycare.cn/posts/zui-font/)
 - [🪣提桶跑路🏃](http://weekdaycare.cn/posts/work-run/)
 - [进厂打工](http://weekdaycare.cn/posts/summer-work/)
 - [夏天，日落于八点](http://weekdaycare.cn/posts/summer-time/)
 - [你好成都](http://weekdaycare.cn/posts/chengdu/)
-- [千年古都，常来长安](http://weekdaycare.cn/posts/changan/)
 <!-- BLOG-POST-LIST:END -->
