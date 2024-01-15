@@ -6,9 +6,9 @@
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
+- [stellar测试文档](http://weekdaycare.cn/posts/test/)
 - [人工智导小作业](http://weekdaycare.cn/posts/disease-diagnosis/)
 - [手写数字识别模型](http://weekdaycare.cn/posts/handwriting-numerals-recognition/)
 - [Fiddler抓包替换ZUI字体](http://weekdaycare.cn/posts/zui-font/)
 - [🪣提桶跑路🏃](http://weekdaycare.cn/posts/work-run/)
-- [进厂打工](http://weekdaycare.cn/posts/summer-work/)
 <!-- BLOG-POST-LIST:END -->
