@@ -1,7 +1,6 @@
 ## 一些卡片
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=weekdaycare" width=360px/>
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=weekdaycare&locale=zh&date_format=%5BY.%5Dn.j" width=360px/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=weekdaycare"/>
 </p>
 
 ## 最近博文更新
