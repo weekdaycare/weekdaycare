@@ -5,8 +5,8 @@
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
+- [Stellar适配Algolia DocSearch](http://weekdaycare.cn/posts/algolia-search/)
 - [求z逆变换的三种方法](http://weekdaycare.cn/posts/z-inverse-transformation/)
 - [展示 Twikoo 最新评论](http://weekdaycare.cn/posts/twikoo-new/)
 - [你好2024](http://weekdaycare.cn/posts/2024/)
-- [人工智导小作业](http://weekdaycare.cn/posts/disease-diagnosis/)
 <!-- BLOG-POST-LIST:END -->
