@@ -5,8 +5,8 @@
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
+- [hexo-renderer-pandoc渲染swiper失败问题](http://weekdaycare.cn/posts/fix-swiper-invalid/)
 - [Stellar适配Algolia DocSearch](http://weekdaycare.cn/posts/algolia-search/)
 - [求z逆变换的三种方法](http://weekdaycare.cn/posts/z-inverse-transformation/)
-- [展示 Twikoo 最新评论](http://weekdaycare.cn/posts/twikoo-new/)
-- [你好2024](http://weekdaycare.cn/posts/2024/)
+- [Stellar展示最新评论](http://weekdaycare.cn/posts/twikoo-new/)
 <!-- BLOG-POST-LIST:END -->
