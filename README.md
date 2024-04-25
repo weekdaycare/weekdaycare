@@ -1,6 +1,6 @@
 ## 我的 Bangumi
 
-![bangumi](/bgm/card.svg)
+![bangumi](https://raw.weekdaycare.cn/raw/weekdaycare/main/bgm/card.svg)
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
