@@ -1,7 +1,6 @@
-## 一些卡片
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=weekdaycare"/>
-</p>
+## 我的 Bangumi
+
+![bangumi](bgm/card.svg)
 
 ## 最近博文更新
 <!-- BLOG-POST-LIST:START -->
