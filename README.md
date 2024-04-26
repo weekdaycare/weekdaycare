@@ -33,9 +33,9 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3973](https://github.com/hoppscotch/hoppscotch/pull/3973) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🗣 Commented on [#2855](https://github.com/hoppscotch/hoppscotch/issues/2855#issuecomment-2046895274) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#3289](https://github.com/hoppscotch/hoppscotch/issues/3289#issuecomment-2046891587) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🗣 Commented on [#3931](https://github.com/hoppscotch/hoppscotch/pull/3931#issuecomment-2017809328) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🎉 Merged PR [#3929](https://github.com/hoppscotch/hoppscotch/pull/3929) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🗣 Commented on [#107](https://github.com/weekdaycare/weekdaycare.github.io/issues/107#issuecomment-2078993722) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+2. ❗ Opened issue [#107](https://github.com/weekdaycare/weekdaycare.github.io/issues/107) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+3. 💪 Opened PR [#446](https://github.com/xaoxuu/hexo-theme-stellar/pull/446) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
+4. 🗣 Commented on [#105](https://github.com/weekdaycare/weekdaycare.github.io/issues/105#issuecomment-2076982213) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. 🗣 Commented on [#105](https://github.com/weekdaycare/weekdaycare.github.io/issues/105#issuecomment-2076962483) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
 <!--END_SECTION:activity-->
