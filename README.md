@@ -9,6 +9,11 @@
 - [Stellar适配Algolia DocSearch](http://weekdaycare.cn/posts/algolia-search/)
 <!-- BLOG-POST-LIST:END -->
 
+## 最近活动
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 
 ## 在看
 
