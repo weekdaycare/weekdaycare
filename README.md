@@ -1,31 +1,49 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=星语日点灯%20🔅&width=800&height=400)
+<div align="center">
+<img src="https://bu.dusays.com/2023/04/12/6436b6115ad92.webp" align="center" style="width: 100%" />
+</div>  
+  
 
-## What I use
+### <div align="center">I'm weekdaycare</>
+
+A student who writes the occasional shit mountain of code.It's a student who writes the occasional shit mountain of code.</div>  
+  
+<br/>  
+
+
+## My Use
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi3.svg)
 
-## 我的 Bangumi
+<br/>  
 
-![bangumi](https://github.com/weekdaycare/weekdaycare/raw/main/bgm/card.svg)
 
-## Blog
+## Connect with me  
+<div align="center">
+  
+</div>  
+  
 
-https://pagespeed-insights.herokuapp.com?url=weekdaycare.cn&categories=performance
+<br/>  
 
-<!-- BLOG-POST-LIST:START -->
-- [探索Hexo多端写作](http://weekdaycare.cn/posts/hexo-obsidian/)
-- [hexo-renderer-pandoc渲染swiper失败问题](http://weekdaycare.cn/posts/fix-swiper-invalid/)
-- [Stellar适配Algolia DocSearch](http://weekdaycare.cn/posts/algolia-search/)
-<!-- BLOG-POST-LIST:END -->
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceCCBYNCND/licenceccbyncnd2.svg)
+## Github Stats  
+  
 
-## 最近活动
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+![licence](https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceCCBYNCND/licenceccbyncnd2.svg)
+
+<br/>  
+
+## Recent Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
-
-## 在看
-
-<a href="http://bgm.tv/user/weekdaycare"><img src="http://bgm.tv/chart/img/533565" border="0" alt="weekdaycare 的个人主页" /></a>
