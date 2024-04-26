@@ -17,8 +17,10 @@ A student who writes the occasional shit mountain of code.It's a student who wri
 <br/>  
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [探索Hexo多端写作](http://weekdaycare.cn/posts/hexo-obsidian/)
+- [hexo-renderer-pandoc渲染swiper失败问题](http://weekdaycare.cn/posts/fix-swiper-invalid/)
+- [Stellar适配Algolia DocSearch](http://weekdaycare.cn/posts/algolia-search/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
