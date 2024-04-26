@@ -3,9 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm weekdaycare</>
+### <div align="center"><🍥>I'm weekdaycare</>
 
-A student who writes the occasional shit mountain of code.It's a student who writes the occasional shit mountain of code.</div>  
+A student who writes the occasional shit mountain of code.</div>  
   
 <br/>  
 
