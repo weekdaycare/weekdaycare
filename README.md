@@ -1,3 +1,5 @@
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=星语日点灯%20🔅&width=800&height=400)
+
 ## What I use
 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi3.svg)
@@ -8,7 +10,7 @@
 
 ## Blog
 
-https://pagespeed-insights.herokuapp.com?url=your_website_url&categories=performance
+https://pagespeed-insights.herokuapp.com?url=weekdaycare.cn&categories=performance
 
 <!-- BLOG-POST-LIST:START -->
 - [探索Hexo多端写作](http://weekdaycare.cn/posts/hexo-obsidian/)
