@@ -12,7 +12,7 @@ A student who writes the occasional shit mountain of code.It's a student who wri
 
 ## My Use
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi3.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
 
 <br/>  
 
