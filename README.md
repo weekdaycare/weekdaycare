@@ -17,6 +17,7 @@ A student who writes the occasional shit mountain of code.</div>
 <br/>  
 
 ## Recent Blog Posts  
+
 <!-- BLOG-POST-LIST:START -->
 - [探索Hexo多端写作](http://weekdaycare.cn/posts/hexo-obsidian/)
 - [hexo-renderer-pandoc渲染swiper失败问题](http://weekdaycare.cn/posts/fix-swiper-invalid/)
@@ -30,6 +31,11 @@ A student who writes the occasional shit mountain of code.</div>
 <br/>  
 
 ## Recent Activity
-<!--START_SECTION:activity-->
 
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#3973](https://github.com/hoppscotch/hoppscotch/pull/3973) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🗣 Commented on [#2855](https://github.com/hoppscotch/hoppscotch/issues/2855#issuecomment-2046895274) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 🗣 Commented on [#3289](https://github.com/hoppscotch/hoppscotch/issues/3289#issuecomment-2046891587) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🗣 Commented on [#3931](https://github.com/hoppscotch/hoppscotch/pull/3931#issuecomment-2017809328) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🎉 Merged PR [#3929](https://github.com/hoppscotch/hoppscotch/pull/3929) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
