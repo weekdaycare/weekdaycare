@@ -33,9 +33,9 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1357](https://github.com/giscus/giscus/issues/1357#issuecomment-2080340928) in [giscus/giscus](https://github.com/giscus/giscus)
-2. 🗣 Commented on [#107](https://github.com/weekdaycare/weekdaycare.github.io/issues/107#issuecomment-2078993722) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-3. ❗ Opened issue [#107](https://github.com/weekdaycare/weekdaycare.github.io/issues/107) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-4. 💪 Opened PR [#446](https://github.com/xaoxuu/hexo-theme-stellar/pull/446) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
-5. 🗣 Commented on [#105](https://github.com/weekdaycare/weekdaycare.github.io/issues/105#issuecomment-2076982213) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+1. 🗣 Commented on [#1357](https://github.com/giscus/giscus/issues/1357#issuecomment-2080404359) in [giscus/giscus](https://github.com/giscus/giscus)
+2. 🗣 Commented on [#1357](https://github.com/giscus/giscus/issues/1357#issuecomment-2080340928) in [giscus/giscus](https://github.com/giscus/giscus)
+3. 🗣 Commented on [#107](https://github.com/weekdaycare/weekdaycare.github.io/issues/107#issuecomment-2078993722) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+4. ❗ Opened issue [#107](https://github.com/weekdaycare/weekdaycare.github.io/issues/107) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. 💪 Opened PR [#446](https://github.com/xaoxuu/hexo-theme-stellar/pull/446) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
 <!--END_SECTION:activity-->
