@@ -35,11 +35,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1357](https://github.com/giscus/giscus/issues/1357#issuecomment-2080709150) in [giscus/giscus](https://github.com/giscus/giscus)
-2. ❗ Opened issue [#111](https://github.com/weekdaycare/weekdaycare.github.io/issues/111) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-3. ❗ Opened issue [#110](https://github.com/weekdaycare/weekdaycare.github.io/issues/110) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-4. 🗣 Commented on [#1357](https://github.com/giscus/giscus/issues/1357#issuecomment-2080404359) in [giscus/giscus](https://github.com/giscus/giscus)
-5. 🗣 Commented on [#1357](https://github.com/giscus/giscus/issues/1357#issuecomment-2080340928) in [giscus/giscus](https://github.com/giscus/giscus)
+1. 🎉 Merged PR [#13](https://github.com/xaoxuu/hexo-theme-stellar-docs/pull/13) in [xaoxuu/hexo-theme-stellar-docs](https://github.com/xaoxuu/hexo-theme-stellar-docs)
+2. 🗣 Commented on [#1357](https://github.com/giscus/giscus/issues/1357#issuecomment-2080709150) in [giscus/giscus](https://github.com/giscus/giscus)
+3. ❗ Opened issue [#111](https://github.com/weekdaycare/weekdaycare.github.io/issues/111) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+4. ❗ Opened issue [#110](https://github.com/weekdaycare/weekdaycare.github.io/issues/110) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. 🗣 Commented on [#1357](https://github.com/giscus/giscus/issues/1357#issuecomment-2080404359) in [giscus/giscus](https://github.com/giscus/giscus)
 
 
 
