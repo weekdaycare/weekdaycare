@@ -22,8 +22,6 @@ A student who writes the occasional shit mountain of code.</div>
 - [探索Hexo多端写作](http://weekdaycare.cn/posts/hexo-obsidian/)
 - [hexo-renderer-pandoc渲染swiper失败问题](http://weekdaycare.cn/posts/fix-swiper-invalid/)
 - [Stellar适配Algolia DocSearch](http://weekdaycare.cn/posts/algolia-search/)
-
-- 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
