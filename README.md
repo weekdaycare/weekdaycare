@@ -33,11 +33,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/xaoxuu/hexo-theme-stellar-docs/pull/13) in [xaoxuu/hexo-theme-stellar-docs](https://github.com/xaoxuu/hexo-theme-stellar-docs)
-2. 🗣 Commented on [#1357](https://github.com/giscus/giscus/issues/1357#issuecomment-2080709150) in [giscus/giscus](https://github.com/giscus/giscus)
-3. ❗ Opened issue [#111](https://github.com/weekdaycare/weekdaycare.github.io/issues/111) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-4. ❗ Opened issue [#110](https://github.com/weekdaycare/weekdaycare.github.io/issues/110) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-5. 🗣 Commented on [#1357](https://github.com/giscus/giscus/issues/1357#issuecomment-2080404359) in [giscus/giscus](https://github.com/giscus/giscus)
+1. 🗣 Commented on [#8](https://github.com/Rooyca/obsidian-api-request/issues/8#issuecomment-2081306017) in [Rooyca/obsidian-api-request](https://github.com/Rooyca/obsidian-api-request)
+2. 🎉 Merged PR [#13](https://github.com/xaoxuu/hexo-theme-stellar-docs/pull/13) in [xaoxuu/hexo-theme-stellar-docs](https://github.com/xaoxuu/hexo-theme-stellar-docs)
+3. 🗣 Commented on [#1357](https://github.com/giscus/giscus/issues/1357#issuecomment-2080709150) in [giscus/giscus](https://github.com/giscus/giscus)
+4. ❗ Opened issue [#111](https://github.com/weekdaycare/weekdaycare.github.io/issues/111) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. ❗ Opened issue [#110](https://github.com/weekdaycare/weekdaycare.github.io/issues/110) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
 
 
 
