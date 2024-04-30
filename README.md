@@ -33,11 +33,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#115](https://github.com/weekdaycare/weekdaycare.github.io/issues/115) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-2. ❗ Opened issue [#114](https://github.com/weekdaycare/weekdaycare.github.io/issues/114) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-3. ❗ Opened issue [#113](https://github.com/weekdaycare/weekdaycare.github.io/issues/113) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-4. ❗ Opened issue [#112](https://github.com/weekdaycare/weekdaycare.github.io/issues/112) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-5. 🗣 Commented on [#8](https://github.com/Rooyca/obsidian-api-request/issues/8#issuecomment-2081306017) in [Rooyca/obsidian-api-request](https://github.com/Rooyca/obsidian-api-request)
+1. 🔒 Closed issue [#115](https://github.com/weekdaycare/weekdaycare.github.io/issues/115) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+2. ❗ Opened issue [#115](https://github.com/weekdaycare/weekdaycare.github.io/issues/115) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+3. ❗ Opened issue [#114](https://github.com/weekdaycare/weekdaycare.github.io/issues/114) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+4. ❗ Opened issue [#113](https://github.com/weekdaycare/weekdaycare.github.io/issues/113) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. ❗ Opened issue [#112](https://github.com/weekdaycare/weekdaycare.github.io/issues/112) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
 
 
 
