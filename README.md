@@ -33,11 +33,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#117](https://github.com/weekdaycare/weekdaycare.github.io/issues/117) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-2. 🗣 Commented on [#111](https://github.com/weekdaycare/weekdaycare.github.io/issues/111#issuecomment-2087899279) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-3. 🗣 Commented on [#112](https://github.com/weekdaycare/weekdaycare.github.io/issues/112#issuecomment-2087894703) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-4. ❗ Opened issue [#116](https://github.com/weekdaycare/weekdaycare.github.io/issues/116) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-5. 🔒 Closed issue [#115](https://github.com/weekdaycare/weekdaycare.github.io/issues/115) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+1. 🗣 Commented on [#116](https://github.com/weekdaycare/weekdaycare.github.io/issues/116#issuecomment-2089417194) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+2. ❗ Opened issue [#117](https://github.com/weekdaycare/weekdaycare.github.io/issues/117) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+3. 🗣 Commented on [#111](https://github.com/weekdaycare/weekdaycare.github.io/issues/111#issuecomment-2087899279) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+4. 🗣 Commented on [#112](https://github.com/weekdaycare/weekdaycare.github.io/issues/112#issuecomment-2087894703) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. ❗ Opened issue [#116](https://github.com/weekdaycare/weekdaycare.github.io/issues/116) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
 
 
 
