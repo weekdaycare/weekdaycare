@@ -19,9 +19,9 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-- [拣爱](https://weekdaycare.cn/posts/lovechoice/)
-- [五月，i人也小e了一下](https://weekdaycare.cn/posts/e-mask/)
-- [四月，是倾盆的雨天](https://weekdaycare.cn/posts/april-fool/)
+- [拣爱](http://weekdaycare.cn/posts/lovechoice/)
+- [五月，i人也小e了一下](http://weekdaycare.cn/posts/e-mask/)
+- [四月，是倾盆的雨天](http://weekdaycare.cn/posts/april-fool/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
