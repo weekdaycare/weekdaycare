@@ -33,11 +33,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#126](https://github.com/weekdaycare/weekdaycare.github.io/issues/126) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-2. 🗣 Commented on [#480](https://github.com/xaoxuu/hexo-theme-stellar/pull/480#issuecomment-2142366018) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
-3. ❗ Opened issue [#125](https://github.com/weekdaycare/weekdaycare.github.io/issues/125) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-4. 🗣 Commented on [#116](https://github.com/weekdaycare/weekdaycare.github.io/issues/116#issuecomment-2133862270) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-5. 🗣 Commented on [#116](https://github.com/weekdaycare/weekdaycare.github.io/issues/116#issuecomment-2133850392) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+1. ❗ Opened issue [#127](https://github.com/weekdaycare/weekdaycare.github.io/issues/127) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+2. ❗ Opened issue [#126](https://github.com/weekdaycare/weekdaycare.github.io/issues/126) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+3. 🗣 Commented on [#480](https://github.com/xaoxuu/hexo-theme-stellar/pull/480#issuecomment-2142366018) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
+4. ❗ Opened issue [#125](https://github.com/weekdaycare/weekdaycare.github.io/issues/125) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. 🗣 Commented on [#116](https://github.com/weekdaycare/weekdaycare.github.io/issues/116#issuecomment-2133862270) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
 
 
 
