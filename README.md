@@ -33,11 +33,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#129](https://github.com/weekdaycare/weekdaycare.github.io/issues/129) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-2. ❗ Opened issue [#131](https://github.com/weekdaycare/weekdaycare.github.io/issues/131) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-3. ❗ Opened issue [#130](https://github.com/weekdaycare/weekdaycare.github.io/issues/130) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-4. 🔒 Closed issue [#128](https://github.com/weekdaycare/weekdaycare.github.io/issues/128) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-5. 🗣 Commented on [#128](https://github.com/weekdaycare/weekdaycare.github.io/issues/128#issuecomment-2162119102) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+1. 🎉 Merged PR [#14](https://github.com/xaoxuu/hexo-theme-stellar-docs/pull/14) in [xaoxuu/hexo-theme-stellar-docs](https://github.com/xaoxuu/hexo-theme-stellar-docs)
+2. 🔒 Closed issue [#129](https://github.com/weekdaycare/weekdaycare.github.io/issues/129) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+3. ❗ Opened issue [#131](https://github.com/weekdaycare/weekdaycare.github.io/issues/131) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+4. ❗ Opened issue [#130](https://github.com/weekdaycare/weekdaycare.github.io/issues/130) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. 🔒 Closed issue [#128](https://github.com/weekdaycare/weekdaycare.github.io/issues/128) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
 
 
 
