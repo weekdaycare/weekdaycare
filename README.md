@@ -33,11 +33,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#136](https://github.com/weekdaycare/weekdaycare.github.io/issues/136) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-2. 🔒 Closed issue [#38](https://github.com/BenderBlog/traintime_pda/issues/38) in [BenderBlog/traintime_pda](https://github.com/BenderBlog/traintime_pda)
-3. 🗣 Commented on [#38](https://github.com/BenderBlog/traintime_pda/issues/38#issuecomment-2202344395) in [BenderBlog/traintime_pda](https://github.com/BenderBlog/traintime_pda)
-4. ❗ Opened issue [#38](https://github.com/BenderBlog/traintime_pda/issues/38) in [BenderBlog/traintime_pda](https://github.com/BenderBlog/traintime_pda)
-5. ❗ Opened issue [#135](https://github.com/weekdaycare/weekdaycare.github.io/issues/135) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+1. ❗ Opened issue [#137](https://github.com/weekdaycare/weekdaycare.github.io/issues/137) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+2. ❗ Opened issue [#136](https://github.com/weekdaycare/weekdaycare.github.io/issues/136) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+3. 🔒 Closed issue [#38](https://github.com/BenderBlog/traintime_pda/issues/38) in [BenderBlog/traintime_pda](https://github.com/BenderBlog/traintime_pda)
+4. 🗣 Commented on [#38](https://github.com/BenderBlog/traintime_pda/issues/38#issuecomment-2202344395) in [BenderBlog/traintime_pda](https://github.com/BenderBlog/traintime_pda)
+5. ❗ Opened issue [#38](https://github.com/BenderBlog/traintime_pda/issues/38) in [BenderBlog/traintime_pda](https://github.com/BenderBlog/traintime_pda)
 
 
 
