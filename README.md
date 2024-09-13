@@ -19,11 +19,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [Chat小组件](https://weekdaycare.cn/posts/chat-plugin/)
 - [于离别之日，束起约定之花](https://weekdaycare.cn/posts/the-day-of-farewells/)
 - [拣爱](https://weekdaycare.cn/posts/lovechoice/)
 - [五月，i人也小e了一下](https://weekdaycare.cn/posts/e-mask/)
 - [四月，是倾盆的雨天](https://weekdaycare.cn/posts/april-fool/)
-- [探索Hexo多端写作](https://weekdaycare.cn/posts/hexo-obsidian/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
