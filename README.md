@@ -35,11 +35,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#26](https://github.com/weekdaycare/friends/issues/26) in [weekdaycare/friends](https://github.com/weekdaycare/friends)
-2. 💪 Opened PR [#527](https://github.com/xaoxuu/hexo-theme-stellar/pull/527) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
-3. 💪 Opened PR [#526](https://github.com/xaoxuu/hexo-theme-stellar/pull/526) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
-4. ❗ Opened issue [#143](https://github.com/weekdaycare/weekdaycare.github.io/issues/143) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-5. ❗ Opened issue [#142](https://github.com/weekdaycare/weekdaycare.github.io/issues/142) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+1. ❗ Opened issue [#144](https://github.com/weekdaycare/weekdaycare.github.io/issues/144) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+2. 🔒 Closed issue [#26](https://github.com/weekdaycare/friends/issues/26) in [weekdaycare/friends](https://github.com/weekdaycare/friends)
+3. 💪 Opened PR [#527](https://github.com/xaoxuu/hexo-theme-stellar/pull/527) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
+4. 💪 Opened PR [#526](https://github.com/xaoxuu/hexo-theme-stellar/pull/526) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
+5. ❗ Opened issue [#143](https://github.com/weekdaycare/weekdaycare.github.io/issues/143) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
 
 
 
