@@ -35,11 +35,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#529](https://github.com/xaoxuu/hexo-theme-stellar/issues/529) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
-2. 💪 Opened PR [#528](https://github.com/xaoxuu/hexo-theme-stellar/pull/528) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
-3. 🔒 Closed issue [#1](https://github.com/weekdaycare/hightlight-code-api/issues/1) in [weekdaycare/hightlight-code-api](https://github.com/weekdaycare/hightlight-code-api)
-4. 🗣 Commented on [#1](https://github.com/weekdaycare/hightlight-code-api/issues/1#issuecomment-2410338824) in [weekdaycare/hightlight-code-api](https://github.com/weekdaycare/hightlight-code-api)
-5. ❗ Opened issue [#1](https://github.com/weekdaycare/hightlight-code-api/issues/1) in [weekdaycare/hightlight-code-api](https://github.com/weekdaycare/hightlight-code-api)
+1. 🗣 Commented on [#4](https://github.com/weekdaycare/hexo-theme-stellar/issues/4#issuecomment-2412826422) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+2. ❗ Opened issue [#4](https://github.com/weekdaycare/hexo-theme-stellar/issues/4) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+3. ❗ Opened issue [#529](https://github.com/xaoxuu/hexo-theme-stellar/issues/529) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
+4. 💪 Opened PR [#528](https://github.com/xaoxuu/hexo-theme-stellar/pull/528) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
+5. 🔒 Closed issue [#1](https://github.com/weekdaycare/hightlight-code-api/issues/1) in [weekdaycare/hightlight-code-api](https://github.com/weekdaycare/hightlight-code-api)
 
 
 
