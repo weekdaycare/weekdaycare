@@ -35,11 +35,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#532](https://github.com/xaoxuu/hexo-theme-stellar/pull/532) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
-2. ❗ Opened issue [#531](https://github.com/xaoxuu/hexo-theme-stellar/issues/531) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
-3. 🗣 Commented on [#5](https://github.com/weekdaycare/hexo-theme-stellar/issues/5#issuecomment-2418419750) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
-4. 💪 Opened PR [#530](https://github.com/xaoxuu/hexo-theme-stellar/pull/530) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
-5. 🔓 Reopened issue [#5](https://github.com/weekdaycare/hexo-theme-stellar/issues/5) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+1. ❗ Opened issue [#6](https://github.com/weekdaycare/hexo-theme-stellar/issues/6) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+2. 💪 Opened PR [#532](https://github.com/xaoxuu/hexo-theme-stellar/pull/532) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
+3. ❗ Opened issue [#531](https://github.com/xaoxuu/hexo-theme-stellar/issues/531) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
+4. 🗣 Commented on [#5](https://github.com/weekdaycare/hexo-theme-stellar/issues/5#issuecomment-2418419750) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+5. 💪 Opened PR [#530](https://github.com/xaoxuu/hexo-theme-stellar/pull/530) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
 
 
 
