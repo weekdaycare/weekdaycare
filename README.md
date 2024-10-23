@@ -35,11 +35,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/weekdaycare/hexo-theme-stellar/issues/7#issuecomment-2429717669) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
-2. ❗ Opened issue [#7](https://github.com/weekdaycare/hexo-theme-stellar/issues/7) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
-3. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2426200879) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-4. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2424968370) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-5. ❗ Opened issue [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+1. 🗣 Commented on [#514](https://github.com/xaoxuu/hexo-theme-stellar/issues/514#issuecomment-2429768408) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
+2. 🗣 Commented on [#7](https://github.com/weekdaycare/hexo-theme-stellar/issues/7#issuecomment-2429717669) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+3. ❗ Opened issue [#7](https://github.com/weekdaycare/hexo-theme-stellar/issues/7) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+4. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2426200879) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2424968370) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
 
 
 
