@@ -35,11 +35,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#1](https://github.com/weekdaycare/Friend-Circle-Lite/issues/1) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
-2. 🔒 Closed issue [#1](https://github.com/weekdaycare/Friend-Circle-Lite/issues/1) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
-3. ❗ Opened issue [#1](https://github.com/weekdaycare/Friend-Circle-Lite/issues/1) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
-4. 🗣 Commented on [#5](https://github.com/Stapxs/Stapxs-QQ-Lite-Theme/issues/5#issuecomment-2441201440) in [Stapxs/Stapxs-QQ-Lite-Theme](https://github.com/Stapxs/Stapxs-QQ-Lite-Theme)
-5. 💪 Opened PR [#537](https://github.com/xaoxuu/hexo-theme-stellar/pull/537) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
+1. 💪 Opened PR [#23](https://github.com/willow-god/Friend-Circle-Lite/pull/23) in [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite)
+2. 🔓 Reopened issue [#1](https://github.com/weekdaycare/Friend-Circle-Lite/issues/1) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
+3. 🔒 Closed issue [#1](https://github.com/weekdaycare/Friend-Circle-Lite/issues/1) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
+4. ❗ Opened issue [#1](https://github.com/weekdaycare/Friend-Circle-Lite/issues/1) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
+5. 🗣 Commented on [#5](https://github.com/Stapxs/Stapxs-QQ-Lite-Theme/issues/5#issuecomment-2441201440) in [Stapxs/Stapxs-QQ-Lite-Theme](https://github.com/Stapxs/Stapxs-QQ-Lite-Theme)
 
 
 
