@@ -35,11 +35,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/weekdaycare/Friend-Circle-Lite/issues/4) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
-2. ❗ Opened issue [#3](https://github.com/weekdaycare/Friend-Circle-Lite/issues/3) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
-3. 💪 Opened PR [#24](https://github.com/willow-god/Friend-Circle-Lite/pull/24) in [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite)
-4. ❗ Opened issue [#2](https://github.com/weekdaycare/Friend-Circle-Lite/issues/2) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
-5. ❗ Opened issue [#149](https://github.com/weekdaycare/weekdaycare.github.io/issues/149) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+1. 🗣 Commented on [#5](https://github.com/Stapxs/Stapxs-QQ-Lite-Theme/issues/5#issuecomment-2443568069) in [Stapxs/Stapxs-QQ-Lite-Theme](https://github.com/Stapxs/Stapxs-QQ-Lite-Theme)
+2. 🗣 Commented on [#5](https://github.com/Stapxs/Stapxs-QQ-Lite-Theme/issues/5#issuecomment-2443557277) in [Stapxs/Stapxs-QQ-Lite-Theme](https://github.com/Stapxs/Stapxs-QQ-Lite-Theme)
+3. ❗ Opened issue [#4](https://github.com/weekdaycare/Friend-Circle-Lite/issues/4) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
+4. ❗ Opened issue [#3](https://github.com/weekdaycare/Friend-Circle-Lite/issues/3) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
+5. 💪 Opened PR [#24](https://github.com/willow-god/Friend-Circle-Lite/pull/24) in [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite)
 
 
 
