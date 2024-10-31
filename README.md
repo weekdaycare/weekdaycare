@@ -19,11 +19,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [穿行的列车，下一站是何处？](https://weekdaycare.cn/posts/slilence/)
 - [Stellar首页轮播图](https://weekdaycare.cn/posts/home-swiper/)
 - [Coding远程代码标签](https://weekdaycare.cn/posts/coding-plugin/)
 - [Chat小组件](https://weekdaycare.cn/posts/chat-plugin/)
 - [于离别之日，束起约定之花](https://weekdaycare.cn/posts/the-day-of-farewells/)
-- [拣爱](https://weekdaycare.cn/posts/lovechoice/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
