@@ -35,11 +35,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/weekdaycare/hexo-theme-stellar/issues/9) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
-2. 🗣 Commented on [#9](https://github.com/weekdaycare/hexo-theme-stellar/issues/9#issuecomment-2453060126) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
-3. 🗣 Commented on [#11](https://github.com/weekdaycare/hexo-theme-stellar/issues/11#issuecomment-2453056530) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
-4. ❗ Opened issue [#11](https://github.com/weekdaycare/hexo-theme-stellar/issues/11) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
-5. 🗣 Commented on [#5](https://github.com/Stapxs/Stapxs-QQ-Lite-Theme/issues/5#issuecomment-2443597443) in [Stapxs/Stapxs-QQ-Lite-Theme](https://github.com/Stapxs/Stapxs-QQ-Lite-Theme)
+1. 🔒 Closed issue [#11](https://github.com/weekdaycare/hexo-theme-stellar/issues/11) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+2. 🔒 Closed issue [#9](https://github.com/weekdaycare/hexo-theme-stellar/issues/9) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+3. 🗣 Commented on [#9](https://github.com/weekdaycare/hexo-theme-stellar/issues/9#issuecomment-2453060126) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+4. 🗣 Commented on [#11](https://github.com/weekdaycare/hexo-theme-stellar/issues/11#issuecomment-2453056530) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+5. ❗ Opened issue [#11](https://github.com/weekdaycare/hexo-theme-stellar/issues/11) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
 
 
 
