@@ -35,11 +35,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/weekdaycare/weekdaycare.github.io/issues/150#issuecomment-2453303894) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-2. ❗ Opened issue [#150](https://github.com/weekdaycare/weekdaycare.github.io/issues/150) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-3. 🔒 Closed issue [#11](https://github.com/weekdaycare/hexo-theme-stellar/issues/11) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
-4. 🔒 Closed issue [#9](https://github.com/weekdaycare/hexo-theme-stellar/issues/9) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
-5. 🗣 Commented on [#9](https://github.com/weekdaycare/hexo-theme-stellar/issues/9#issuecomment-2453060126) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+1. ❗ Opened issue [#12](https://github.com/weekdaycare/hexo-theme-stellar/issues/12) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+2. 🗣 Commented on [#150](https://github.com/weekdaycare/weekdaycare.github.io/issues/150#issuecomment-2453303894) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+3. ❗ Opened issue [#150](https://github.com/weekdaycare/weekdaycare.github.io/issues/150) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+4. 🔒 Closed issue [#11](https://github.com/weekdaycare/hexo-theme-stellar/issues/11) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+5. 🔒 Closed issue [#9](https://github.com/weekdaycare/hexo-theme-stellar/issues/9) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
 
 
 
