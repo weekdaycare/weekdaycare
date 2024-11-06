@@ -35,11 +35,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/weekdaycare/hexo-theme-stellar/issues/13) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
-2. ❗ Opened issue [#6](https://github.com/weekdaycare/Friend-Circle-Lite/issues/6) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
-3. ❗ Opened issue [#151](https://github.com/weekdaycare/weekdaycare.github.io/issues/151) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-4. 🔒 Closed issue [#12](https://github.com/weekdaycare/hexo-theme-stellar/issues/12) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
-5. ❗ Opened issue [#12](https://github.com/weekdaycare/hexo-theme-stellar/issues/12) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+1. 💪 Opened PR [#27](https://github.com/willow-god/Friend-Circle-Lite/pull/27) in [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite)
+2. ❗ Opened issue [#13](https://github.com/weekdaycare/hexo-theme-stellar/issues/13) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+3. ❗ Opened issue [#6](https://github.com/weekdaycare/Friend-Circle-Lite/issues/6) in [weekdaycare/Friend-Circle-Lite](https://github.com/weekdaycare/Friend-Circle-Lite)
+4. ❗ Opened issue [#151](https://github.com/weekdaycare/weekdaycare.github.io/issues/151) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. 🔒 Closed issue [#12](https://github.com/weekdaycare/hexo-theme-stellar/issues/12) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
 
 
 
