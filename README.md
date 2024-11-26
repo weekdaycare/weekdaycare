@@ -35,11 +35,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#152](https://github.com/weekdaycare/weekdaycare.github.io/issues/152) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-2. 💪 Opened PR [#542](https://github.com/xaoxuu/hexo-theme-stellar/pull/542) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
-3. ❌ Closed PR [#27](https://github.com/willow-god/Friend-Circle-Lite/pull/27) in [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite)
-4. 💪 Opened PR [#27](https://github.com/willow-god/Friend-Circle-Lite/pull/27) in [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite)
-5. ❗ Opened issue [#13](https://github.com/weekdaycare/hexo-theme-stellar/issues/13) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
+1. ❗ Opened issue [#153](https://github.com/weekdaycare/weekdaycare.github.io/issues/153) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+2. ❗ Opened issue [#152](https://github.com/weekdaycare/weekdaycare.github.io/issues/152) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+3. 💪 Opened PR [#542](https://github.com/xaoxuu/hexo-theme-stellar/pull/542) in [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar)
+4. ❌ Closed PR [#27](https://github.com/willow-god/Friend-Circle-Lite/pull/27) in [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite)
+5. 💪 Opened PR [#27](https://github.com/willow-god/Friend-Circle-Lite/pull/27) in [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite)
 
 
 
