@@ -9,13 +9,6 @@ A student who writes the occasional shit mountain of code.</div>
   
 <br/>  
 
-
-## My Use
-
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg) ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
-
-<br/>  
-
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
@@ -25,12 +18,6 @@ A student who writes the occasional shit mountain of code.</div>
 - [Coding远程代码标签](https://weekdaycare.cn/posts/coding-plugin/)
 - [Chat小组件](https://weekdaycare.cn/posts/chat-plugin/)
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-![licence](https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceCCBYNCND/licenceccbyncnd2.svg)
-
-<br/>  
 
 ## Recent Activity
 
@@ -45,3 +32,7 @@ A student who writes the occasional shit mountain of code.</div>
 
 
 <!--END_SECTION:activity-->
+
+## My Bangumi
+
+![](/bgm/card.svg)
