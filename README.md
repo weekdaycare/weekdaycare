@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/weekdaycare/weekdaycare.github.io/issues/153#issuecomment-2511201134) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-2. 💪 Opened PR [#1](https://github.com/xiaoyvyv/bangumi-action/pull/1) in [xiaoyvyv/bangumi-action](https://github.com/xiaoyvyv/bangumi-action)
-3. ❗ Opened issue [#19](https://github.com/zsakvo/wenku8x/issues/19) in [zsakvo/wenku8x](https://github.com/zsakvo/wenku8x)
-4. ❗ Opened issue [#153](https://github.com/weekdaycare/weekdaycare.github.io/issues/153) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-5. ❗ Opened issue [#152](https://github.com/weekdaycare/weekdaycare.github.io/issues/152) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+1. ❗ Opened issue [#1](https://github.com/weekdaycare/discussion-new-api/issues/1) in [weekdaycare/discussion-new-api](https://github.com/weekdaycare/discussion-new-api)
+2. 🗣 Commented on [#153](https://github.com/weekdaycare/weekdaycare.github.io/issues/153#issuecomment-2511201134) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+3. 💪 Opened PR [#1](https://github.com/xiaoyvyv/bangumi-action/pull/1) in [xiaoyvyv/bangumi-action](https://github.com/xiaoyvyv/bangumi-action)
+4. ❗ Opened issue [#19](https://github.com/zsakvo/wenku8x/issues/19) in [zsakvo/wenku8x](https://github.com/zsakvo/wenku8x)
+5. ❗ Opened issue [#153](https://github.com/weekdaycare/weekdaycare.github.io/issues/153) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
 
 
 
