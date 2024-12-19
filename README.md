@@ -12,11 +12,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
+- [泪总不在当下流](https://weekdaycare.cn/posts/my-grandpa/)
 - [iOS实况live图标签](https://weekdaycare.cn/posts/web-live/)
 - [穿行的列车，下一站是何处？](https://weekdaycare.cn/posts/slilence/)
 - [Stellar首页轮播图](https://weekdaycare.cn/posts/home-swiper/)
 - [Coding远程代码标签](https://weekdaycare.cn/posts/coding-plugin/)
-- [Chat小组件](https://weekdaycare.cn/posts/chat-plugin/)
 <!-- BLOG-POST-LIST:END -->  
 
 ## Recent Activity
