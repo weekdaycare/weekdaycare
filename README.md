@@ -26,7 +26,7 @@ A student who writes the occasional shit mountain of code.</div>
 2. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
 3. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
 4. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
-5. ❗ Opened issue [#156](https://github.com/weekdaycare/weekdaycare.github.io/issues/156) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
 
 
 
