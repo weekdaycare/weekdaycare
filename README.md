@@ -23,10 +23,10 @@ A student who writes the occasional shit mountain of code.</div>
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
-2. ❗ Opened issue [#156](https://github.com/weekdaycare/weekdaycare.github.io/issues/156) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-3. 🔒 Closed issue [#1](https://github.com/weekdaycare/discussion-new-api/issues/1) in [weekdaycare/discussion-new-api](https://github.com/weekdaycare/discussion-new-api)
-4. ❗ Opened issue [#155](https://github.com/weekdaycare/weekdaycare.github.io/issues/155) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-5. ❗ Opened issue [#1](https://github.com/weekdaycare/discussion-new-api/issues/1) in [weekdaycare/discussion-new-api](https://github.com/weekdaycare/discussion-new-api)
+2. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
+3. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
+4. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
+5. ❗ Opened issue [#156](https://github.com/weekdaycare/weekdaycare.github.io/issues/156) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
 
 
 
