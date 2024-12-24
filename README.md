@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
-2. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
-3. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
-4. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
-5. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
+1. 🗣 Commented on [#5](https://github.com/weekdaycare/comment-test/issues/5#issuecomment-2561188514) in [weekdaycare/comment-test](https://github.com/weekdaycare/comment-test)
+2. 🗣 Commented on [#4](https://github.com/weekdaycare/comment-test/issues/4#issuecomment-2561183056) in [weekdaycare/comment-test](https://github.com/weekdaycare/comment-test)
+3. 🗣 Commented on [#4](https://github.com/weekdaycare/comment-test/issues/4#issuecomment-2561179899) in [weekdaycare/comment-test](https://github.com/weekdaycare/comment-test)
+4. 🗣 Commented on [#3](https://github.com/weekdaycare/comment-test/issues/3#issuecomment-2561179691) in [weekdaycare/comment-test](https://github.com/weekdaycare/comment-test)
+5. 🗣 Commented on [#3](https://github.com/weekdaycare/comment-test/issues/3#issuecomment-2561179556) in [weekdaycare/comment-test](https://github.com/weekdaycare/comment-test)
 
 
 
