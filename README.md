@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2571362038) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-2. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2571356277) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-3. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2571353868) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-4. 🔒 Closed issue [#7](https://github.com/weekdaycare/hexo-theme-stellar/issues/7) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
-5. 🚀 Published release [v1.0](https://github.com/weekdaycare/issue-discussion-generator/releases/tag/v1.0) in [weekdaycare/issue-discussion-generator](https://github.com/weekdaycare/issue-discussion-generator)
+1. ❗ Opened issue [#51](https://github.com/weekdaycare/Friends-issue/issues/51) in [weekdaycare/Friends-issue](https://github.com/weekdaycare/Friends-issue)
+2. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2571362038) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+3. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2571356277) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+4. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2571353868) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. 🔒 Closed issue [#7](https://github.com/weekdaycare/hexo-theme-stellar/issues/7) in [weekdaycare/hexo-theme-stellar](https://github.com/weekdaycare/hexo-theme-stellar)
 
 
 
