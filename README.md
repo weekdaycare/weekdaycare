@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#157](https://github.com/weekdaycare/weekdaycare.github.io/issues/157) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-2. ❗ Opened issue [#51](https://github.com/weekdaycare/Friends-issue/issues/51) in [weekdaycare/Friends-issue](https://github.com/weekdaycare/Friends-issue)
-3. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2571362038) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-4. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2571356277) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-5. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2571353868) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+1. 🔒 Closed issue [#24](https://github.com/weekdaycare/Friends-issue/issues/24) in [weekdaycare/Friends-issue](https://github.com/weekdaycare/Friends-issue)
+2. ❗ Opened issue [#157](https://github.com/weekdaycare/weekdaycare.github.io/issues/157) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+3. ❗ Opened issue [#51](https://github.com/weekdaycare/Friends-issue/issues/51) in [weekdaycare/Friends-issue](https://github.com/weekdaycare/Friends-issue)
+4. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2571362038) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+5. 🗣 Commented on [#147](https://github.com/weekdaycare/weekdaycare.github.io/issues/147#issuecomment-2571356277) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
 
 
 
