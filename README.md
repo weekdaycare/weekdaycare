@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/xaoxuu/issues-json-generator/pull/23) in [xaoxuu/issues-json-generator](https://github.com/xaoxuu/issues-json-generator)
-2. ❗ Opened issue [#2](https://github.com/weekdaycare/issues-json-generator/issues/2) in [weekdaycare/issues-json-generator](https://github.com/weekdaycare/issues-json-generator)
-3. ❗ Opened issue [#1](https://github.com/weekdaycare/issues-json-generator/issues/1) in [weekdaycare/issues-json-generator](https://github.com/weekdaycare/issues-json-generator)
-4. 🔒 Closed issue [#24](https://github.com/weekdaycare/Friends-issue/issues/24) in [weekdaycare/Friends-issue](https://github.com/weekdaycare/Friends-issue)
-5. ❗ Opened issue [#157](https://github.com/weekdaycare/weekdaycare.github.io/issues/157) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+1. 🔒 Closed issue [#42](https://github.com/weekdaycare/Friends-issue/issues/42) in [weekdaycare/Friends-issue](https://github.com/weekdaycare/Friends-issue)
+2. ❗ Opened issue [#158](https://github.com/weekdaycare/weekdaycare.github.io/issues/158) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
+3. 💪 Opened PR [#23](https://github.com/xaoxuu/issues-json-generator/pull/23) in [xaoxuu/issues-json-generator](https://github.com/xaoxuu/issues-json-generator)
+4. ❗ Opened issue [#2](https://github.com/weekdaycare/issues-json-generator/issues/2) in [weekdaycare/issues-json-generator](https://github.com/weekdaycare/issues-json-generator)
+5. ❗ Opened issue [#1](https://github.com/weekdaycare/issues-json-generator/issues/1) in [weekdaycare/issues-json-generator](https://github.com/weekdaycare/issues-json-generator)
 
 
 
