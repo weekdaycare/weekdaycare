@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#161](https://github.com/Richasy/Rodel.Player.Public/issues/161) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-2. 🗣 Commented on [#258](https://github.com/std-microblock/breeze-shell/issues/258#issuecomment-3235538205) in [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell)
-3. ❗ Opened issue [#161](https://github.com/Richasy/Rodel.Player.Public/issues/161) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-4. 🗣 Commented on [#258](https://github.com/std-microblock/breeze-shell/issues/258#issuecomment-3235538205) in [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell)
-5. ❗ Opened issue [#1](https://github.com/weekdaycare/issues-json-generator/issues/1) in [weekdaycare/issues-json-generator](https://github.com/weekdaycare/issues-json-generator)
+1. 💪 Opened PR [#2](undefined) in [weekdaycare/kernel_xiaomi_sm8250_mod](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod)
+2. ❌ Closed PR [#1](undefined) in [weekdaycare/kernel_xiaomi_sm8250_mod](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod)
+3. ❌ Assigned PR [#1](undefined) in [weekdaycare/kernel_xiaomi_sm8250_mod](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod)
+4. 💪 Opened PR [#1](undefined) in [weekdaycare/kernel_xiaomi_sm8250_mod](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod)
+5.  Labeled issue [#161](https://github.com/Richasy/Rodel.Player.Public/issues/161) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
 
 
 
