@@ -22,9 +22,9 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [kernel build for pipa 12](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod/releases/tag/kernel-build-12) in [weekdaycare/kernel_xiaomi_sm8250_mod](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod)
-2. ❗ Opened issue [#161](https://github.com/Richasy/Rodel.Player.Public/issues/161) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-3. 🗣 Commented on [#258](https://github.com/std-microblock/breeze-shell/issues/258#issuecomment-3235538205) in [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell)
+1. ❗ Opened issue [#25](https://github.com/timsaya/luci-app-bandix/issues/25) in [timsaya/luci-app-bandix](https://github.com/timsaya/luci-app-bandix)
+2. 🚀 Published release [kernel build for pipa 12](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod/releases/tag/kernel-build-12) in [weekdaycare/kernel_xiaomi_sm8250_mod](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod)
+3. ❗ Opened issue [#161](https://github.com/Richasy/Rodel.Player.Public/issues/161) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
 4. ❌ Assigned PR [#1](undefined) in [weekdaycare/kernel_xiaomi_sm8250_mod](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod)
 5. 💪 Opened PR [#1](undefined) in [weekdaycare/kernel_xiaomi_sm8250_mod](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod)
 
