@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
-2. ❗ Opened issue [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
-3.  Labeled issue [#253](https://github.com/Richasy/Rodel.Player.Public/issues/253) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-4. ❗ Opened issue [#253](https://github.com/Richasy/Rodel.Player.Public/issues/253) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-5.  Assigned issue [#253](https://github.com/Richasy/Rodel.Player.Public/issues/253) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
+1.  Labeled issue [#1740](https://github.com/Moriafly/SaltPlayerSource/issues/1740) in [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)
+2.  Assigned issue [#1740](https://github.com/Moriafly/SaltPlayerSource/issues/1740) in [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)
+3. ❗ Opened issue [#1740](https://github.com/Moriafly/SaltPlayerSource/issues/1740) in [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)
+4.  Labeled issue [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
+5. ❗ Opened issue [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
 
 
 
