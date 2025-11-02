@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#253](https://github.com/Richasy/Rodel.Player.Public/issues/253) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-2. ❗ Opened issue [#253](https://github.com/Richasy/Rodel.Player.Public/issues/253) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-3.  Assigned issue [#253](https://github.com/Richasy/Rodel.Player.Public/issues/253) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-4. 🗣 Commented on [#145](https://github.com/weekdaycare/weekdaycare.github.io/issues/145#issuecomment-3419717536) in [weekdaycare/weekdaycare.github.io](https://github.com/weekdaycare/weekdaycare.github.io)
-5.  Labeled issue [#1703](https://github.com/Moriafly/SaltPlayerSource/issues/1703) in [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)
+1.  Labeled issue [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
+2. ❗ Opened issue [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
+3.  Labeled issue [#253](https://github.com/Richasy/Rodel.Player.Public/issues/253) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
+4. ❗ Opened issue [#253](https://github.com/Richasy/Rodel.Player.Public/issues/253) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
+5.  Assigned issue [#253](https://github.com/Richasy/Rodel.Player.Public/issues/253) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
 
 
 
