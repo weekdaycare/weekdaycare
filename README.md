@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
-2. 🗣 Commented on [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16#issuecomment-3478063991) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
-3. 💪 Opened PR [#26](undefined) in [kiddin9/kwrt-packages](https://github.com/kiddin9/kwrt-packages)
-4. 🗣 Commented on [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16#issuecomment-3477886925) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
-5.  Labeled issue [#1740](https://github.com/Moriafly/SaltPlayerSource/issues/1740) in [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)
+1. 🔒 Closed issue [#253](https://github.com/Richasy/Rodel.Player.Public/issues/253) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
+2. 🔒 Closed issue [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
+3. 🗣 Commented on [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16#issuecomment-3478063991) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
+4. 💪 Opened PR [#26](undefined) in [kiddin9/kwrt-packages](https://github.com/kiddin9/kwrt-packages)
+5. 🗣 Commented on [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16#issuecomment-3477886925) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
 
 
 
