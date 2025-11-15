@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#269](https://github.com/Richasy/Rodel.Player.Public/issues/269) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-2. ❗ Opened issue [#269](https://github.com/Richasy/Rodel.Player.Public/issues/269) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-3.  Assigned issue [#269](https://github.com/Richasy/Rodel.Player.Public/issues/269) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-4. 🔒 Closed issue [#253](https://github.com/Richasy/Rodel.Player.Public/issues/253) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-5. 🔒 Closed issue [#16](https://github.com/eamonxg/luci-theme-aurora/issues/16) in [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)
+1. 🚀 Published release [128M_Ubootmod-20251115-2053](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/releases/tag/128M_ubootmod-20251115-2053) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+2.  Labeled issue [#269](https://github.com/Richasy/Rodel.Player.Public/issues/269) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
+3. ❗ Opened issue [#269](https://github.com/Richasy/Rodel.Player.Public/issues/269) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
+4.  Assigned issue [#269](https://github.com/Richasy/Rodel.Player.Public/issues/269) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
+5. 🔒 Closed issue [#253](https://github.com/Richasy/Rodel.Player.Public/issues/253) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
 
 
 
