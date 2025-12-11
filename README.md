@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Xieweikang123/ReFast/issues/1#issuecomment-3619449866) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
-2. 🗣 Commented on [#1](https://github.com/Xieweikang123/ReFast/issues/1#issuecomment-3619385243) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
-3. ❗ Opened issue [#1](https://github.com/Xieweikang123/ReFast/issues/1) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
-4. 💪 Opened PR [#157](undefined) in [hanwckf/bl-mt798x](https://github.com/hanwckf/bl-mt798x)
-5. ❌ Merged PR [#258](undefined) in [padavanonly/immortalwrt-mt798x-6.6](https://github.com/padavanonly/immortalwrt-mt798x-6.6)
+1. 🔒 Closed issue [#3](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/3) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+2. 🗣 Commented on [#3](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/3#issuecomment-3642186239) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+3. 🗣 Commented on [#1](https://github.com/Xieweikang123/ReFast/issues/1#issuecomment-3619449866) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
+4. 🗣 Commented on [#1](https://github.com/Xieweikang123/ReFast/issues/1#issuecomment-3619385243) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
+5. ❗ Opened issue [#1](https://github.com/Xieweikang123/ReFast/issues/1) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
 
 
 
