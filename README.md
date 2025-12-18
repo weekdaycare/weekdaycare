@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Xieweikang123/ReFast/issues/6#issuecomment-3659035751) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
-2. 🗣 Commented on [#6](https://github.com/Xieweikang123/ReFast/issues/6#issuecomment-3658584996) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
-3. ❗ Opened issue [#6](https://github.com/Xieweikang123/ReFast/issues/6) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
-4. 🗣 Commented on [#1](https://github.com/Xieweikang123/ReFast/issues/1#issuecomment-3651330339) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
-5. 🔒 Closed issue [#1](https://github.com/Xieweikang123/ReFast/issues/1) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
+1. 🗣 Commented on [#6](https://github.com/Xieweikang123/ReFast/issues/6#issuecomment-3668043818) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
+2. 🗣 Commented on [#6](https://github.com/Xieweikang123/ReFast/issues/6#issuecomment-3659035751) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
+3. 🗣 Commented on [#6](https://github.com/Xieweikang123/ReFast/issues/6#issuecomment-3658584996) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
+4. ❗ Opened issue [#6](https://github.com/Xieweikang123/ReFast/issues/6) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
+5. 🗣 Commented on [#1](https://github.com/Xieweikang123/ReFast/issues/1#issuecomment-3651330339) in [Xieweikang123/ReFast](https://github.com/Xieweikang123/ReFast)
 
 
 
