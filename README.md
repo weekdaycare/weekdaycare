@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/Aethersailor/SubConverter-Extended/issues/19) in [Aethersailor/SubConverter-Extended](https://github.com/Aethersailor/SubConverter-Extended)
-2. 🗣 Commented on [#124](https://github.com/CrazyZhang666/EAappEmulater/issues/124#issuecomment-3718325230) in [CrazyZhang666/EAappEmulater](https://github.com/CrazyZhang666/EAappEmulater)
-3. 🔒 Closed issue [#124](https://github.com/CrazyZhang666/EAappEmulater/issues/124) in [CrazyZhang666/EAappEmulater](https://github.com/CrazyZhang666/EAappEmulater)
-4. ℹ️ Labeled issue [#124](https://github.com/CrazyZhang666/EAappEmulater/issues/124) in [CrazyZhang666/EAappEmulater](https://github.com/CrazyZhang666/EAappEmulater)
-5. ❗ Opened issue [#124](https://github.com/CrazyZhang666/EAappEmulater/issues/124) in [CrazyZhang666/EAappEmulater](https://github.com/CrazyZhang666/EAappEmulater)
+1. 🔒 Closed issue [#19](https://github.com/Aethersailor/SubConverter-Extended/issues/19) in [Aethersailor/SubConverter-Extended](https://github.com/Aethersailor/SubConverter-Extended)
+2. 🗣 Commented on [#19](https://github.com/Aethersailor/SubConverter-Extended/issues/19#issuecomment-3782544696) in [Aethersailor/SubConverter-Extended](https://github.com/Aethersailor/SubConverter-Extended)
+3. ❗ Opened issue [#19](https://github.com/Aethersailor/SubConverter-Extended/issues/19) in [Aethersailor/SubConverter-Extended](https://github.com/Aethersailor/SubConverter-Extended)
+4. 🗣 Commented on [#124](https://github.com/CrazyZhang666/EAappEmulater/issues/124#issuecomment-3718325230) in [CrazyZhang666/EAappEmulater](https://github.com/CrazyZhang666/EAappEmulater)
+5. 🔒 Closed issue [#124](https://github.com/CrazyZhang666/EAappEmulater/issues/124) in [CrazyZhang666/EAappEmulater](https://github.com/CrazyZhang666/EAappEmulater)
 
 
 
