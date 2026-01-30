@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/6#issuecomment-3800560410) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-2. 🔒 Closed issue [#19](https://github.com/Aethersailor/SubConverter-Extended/issues/19) in [Aethersailor/SubConverter-Extended](https://github.com/Aethersailor/SubConverter-Extended)
-3. 🗣 Commented on [#19](https://github.com/Aethersailor/SubConverter-Extended/issues/19#issuecomment-3782544696) in [Aethersailor/SubConverter-Extended](https://github.com/Aethersailor/SubConverter-Extended)
-4. ❗ Opened issue [#19](https://github.com/Aethersailor/SubConverter-Extended/issues/19) in [Aethersailor/SubConverter-Extended](https://github.com/Aethersailor/SubConverter-Extended)
-5. 🗣 Commented on [#124](https://github.com/CrazyZhang666/EAappEmulater/issues/124#issuecomment-3718325230) in [CrazyZhang666/EAappEmulater](https://github.com/CrazyZhang666/EAappEmulater)
+1. 💪 Opened PR [#1](https://github.com/weekdaycare/uptime-status/pull/1) in [weekdaycare/uptime-status](https://github.com/weekdaycare/uptime-status)
+2. ❌ Closed PR [#70](https://github.com/imsyy/site-status/pull/70) in [imsyy/site-status](https://github.com/imsyy/site-status)
+3. 💪 Opened PR [#70](https://github.com/imsyy/site-status/pull/70) in [imsyy/site-status](https://github.com/imsyy/site-status)
+4. 🗣 Commented on [#6](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/6#issuecomment-3800560410) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+5. 🔒 Closed issue [#19](https://github.com/Aethersailor/SubConverter-Extended/issues/19) in [Aethersailor/SubConverter-Extended](https://github.com/Aethersailor/SubConverter-Extended)
 
 
 
