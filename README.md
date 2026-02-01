@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/pull/9) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-2. 💪 Opened PR [#9](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/pull/9) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-3. ❗ Opened issue [#8](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/8) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-4. 🔒 Closed issue [#7](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/7) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-5. 🗣 Commented on [#7](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/7#issuecomment-3828674588) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+1. 🗣 Commented on [#7](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/7#issuecomment-3830477200) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+2. 🎉 Merged PR [#9](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/pull/9) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+3. 💪 Opened PR [#9](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/pull/9) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+4. ❗ Opened issue [#8](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/8) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+5. 🔒 Closed issue [#7](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/7) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
 
 
 
