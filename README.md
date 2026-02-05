@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#4](https://github.com/Richasy/Rodel.Reader.Public/issues/4) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
-2. ❗ Opened issue [#4](https://github.com/Richasy/Rodel.Reader.Public/issues/4) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
-3. ℹ️ Assigned issue [#4](https://github.com/Richasy/Rodel.Reader.Public/issues/4) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
-4. ℹ️ Labeled issue [#3](https://github.com/Richasy/Rodel.Reader.Public/issues/3) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
-5. ❗ Opened issue [#3](https://github.com/Richasy/Rodel.Reader.Public/issues/3) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+1. 🔒 Closed issue [#3](https://github.com/Richasy/Rodel.Reader.Public/issues/3) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+2. ℹ️ Labeled issue [#4](https://github.com/Richasy/Rodel.Reader.Public/issues/4) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+3. ❗ Opened issue [#4](https://github.com/Richasy/Rodel.Reader.Public/issues/4) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+4. ℹ️ Assigned issue [#4](https://github.com/Richasy/Rodel.Reader.Public/issues/4) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+5. ℹ️ Labeled issue [#3](https://github.com/Richasy/Rodel.Reader.Public/issues/3) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
 
 
 
