@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/11#issuecomment-3850951671) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-2. 🗣 Commented on [#11](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/11#issuecomment-3850940336) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-3. 🔒 Closed issue [#10](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/10) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-4. 🗣 Commented on [#10](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/10#issuecomment-3832734155) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-5. 🗣 Commented on [#7](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/7#issuecomment-3830599425) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+1. ℹ️ Labeled issue [#4](https://github.com/Richasy/Rodel.Reader.Public/issues/4) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+2. ❗ Opened issue [#4](https://github.com/Richasy/Rodel.Reader.Public/issues/4) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+3. ℹ️ Assigned issue [#4](https://github.com/Richasy/Rodel.Reader.Public/issues/4) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+4. ℹ️ Labeled issue [#3](https://github.com/Richasy/Rodel.Reader.Public/issues/3) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+5. ❗ Opened issue [#3](https://github.com/Richasy/Rodel.Reader.Public/issues/3) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
 
 
 
