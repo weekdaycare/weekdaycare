@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/Richasy/Rodel.Reader.Public/issues/6) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
-2. ℹ️ Labeled issue [#7](https://github.com/Richasy/Rodel.Reader.Public/issues/7) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
-3. ❗ Opened issue [#7](https://github.com/Richasy/Rodel.Reader.Public/issues/7) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
-4. ℹ️ Assigned issue [#7](https://github.com/Richasy/Rodel.Reader.Public/issues/7) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
-5. ℹ️ Labeled issue [#6](https://github.com/Richasy/Rodel.Reader.Public/issues/6) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+1. 🗣 Commented on [#12](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/12#issuecomment-3878415171) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+2. 🔒 Closed issue [#6](https://github.com/Richasy/Rodel.Reader.Public/issues/6) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+3. ℹ️ Labeled issue [#7](https://github.com/Richasy/Rodel.Reader.Public/issues/7) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+4. ❗ Opened issue [#7](https://github.com/Richasy/Rodel.Reader.Public/issues/7) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+5. ℹ️ Assigned issue [#7](https://github.com/Richasy/Rodel.Reader.Public/issues/7) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
 
 
 
