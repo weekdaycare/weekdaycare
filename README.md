@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#13](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/13) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-2. 🗣 Commented on [#13](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/13#issuecomment-3938383362) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-3. 🔒 Closed issue [#12](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/12) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-4. 🗣 Commented on [#12](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/12#issuecomment-3882153936) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-5. 🗣 Commented on [#12](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/12#issuecomment-3878415171) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+1. ℹ️ Labeled issue [#15](https://github.com/Richasy/Rodel.Reader.Public/issues/15) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+2. ❗ Opened issue [#15](https://github.com/Richasy/Rodel.Reader.Public/issues/15) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+3. ℹ️ Assigned issue [#15](https://github.com/Richasy/Rodel.Reader.Public/issues/15) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+4. 🔒 Closed issue [#13](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/13) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+5. 🗣 Commented on [#13](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/13#issuecomment-3938383362) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
 
 
 
