@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/15) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-2. 🔒 Closed issue [#16](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/16) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-3. 🗣 Commented on [#16](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/16#issuecomment-4018545854) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-4. 🗣 Commented on [#16](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/16#issuecomment-4015871933) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-5. 🗣 Commented on [#14](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/14#issuecomment-4002001061) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+1. ℹ️ Labeled issue [#87](https://github.com/AnInsomniacy/motrix-next/issues/87) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
+2. ❗ Opened issue [#87](https://github.com/AnInsomniacy/motrix-next/issues/87) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
+3. 🔒 Closed issue [#15](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/15) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+4. 🔒 Closed issue [#16](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/16) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+5. 🗣 Commented on [#16](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/16#issuecomment-4018545854) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
 
 
 
