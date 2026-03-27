@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#87](https://github.com/AnInsomniacy/motrix-next/issues/87) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
-2. 🗣 Commented on [#87](https://github.com/AnInsomniacy/motrix-next/issues/87#issuecomment-4102454174) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
-3. ℹ️ Labeled issue [#87](https://github.com/AnInsomniacy/motrix-next/issues/87) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
-4. ❗ Opened issue [#87](https://github.com/AnInsomniacy/motrix-next/issues/87) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
-5. 🔒 Closed issue [#15](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/15) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+1. 🗣 Commented on [#17](https://github.com/Richasy/Rodel.Reader.Public/issues/17#issuecomment-4140352551) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+2. 🔒 Closed issue [#87](https://github.com/AnInsomniacy/motrix-next/issues/87) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
+3. 🗣 Commented on [#87](https://github.com/AnInsomniacy/motrix-next/issues/87#issuecomment-4102454174) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
+4. ℹ️ Labeled issue [#87](https://github.com/AnInsomniacy/motrix-next/issues/87) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
+5. ❗ Opened issue [#87](https://github.com/AnInsomniacy/motrix-next/issues/87) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
 
 
 
