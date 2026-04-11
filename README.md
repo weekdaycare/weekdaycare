@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/17) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-2. 🗣 Commented on [#17](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/17#issuecomment-4182416277) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-3. 🗣 Commented on [#17](https://github.com/Richasy/Rodel.Reader.Public/issues/17#issuecomment-4140352551) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
-4. 🔒 Closed issue [#87](https://github.com/AnInsomniacy/motrix-next/issues/87) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
-5. 🗣 Commented on [#87](https://github.com/AnInsomniacy/motrix-next/issues/87#issuecomment-4102454174) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
+1. ℹ️ Assigned issue [#18](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/18) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+2. 🔒 Closed issue [#17](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/17) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+3. 🗣 Commented on [#17](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/17#issuecomment-4182416277) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+4. 🗣 Commented on [#17](https://github.com/Richasy/Rodel.Reader.Public/issues/17#issuecomment-4140352551) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+5. 🔒 Closed issue [#87](https://github.com/AnInsomniacy/motrix-next/issues/87) in [AnInsomniacy/motrix-next](https://github.com/AnInsomniacy/motrix-next)
 
 
 
