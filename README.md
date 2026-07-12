@@ -22,11 +22,11 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#26](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/26) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-2. 🗣 Commented on [#26](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/26#issuecomment-4931627259) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-3. ❌ Closed PR [#23](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/pull/23) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-4. 🔒 Closed issue [#24](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/24) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
-5. ℹ️ Assigned issue [#99](https://github.com/Richasy/Rodel.Reader.Public/issues/99) in [Richasy/Rodel.Reader.Public](https://github.com/Richasy/Rodel.Reader.Public)
+1. ℹ️ Labeled issue [#474](https://github.com/Richasy/Rodel.Player.Public/issues/474) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
+2. ℹ️ Assigned issue [#474](https://github.com/Richasy/Rodel.Player.Public/issues/474) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
+3. ❗ Opened issue [#474](https://github.com/Richasy/Rodel.Player.Public/issues/474) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
+4. 🔒 Closed issue [#26](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/26) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+5. 🗣 Commented on [#26](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/26#issuecomment-4931627259) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
 
 
 
