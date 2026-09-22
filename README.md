@@ -22,7 +22,7 @@ A student who writes the occasional shit mountain of code.</div>
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#27](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/27) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
+1. 🔒 Closed issue [#29](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/29) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
 2. 🗣 Commented on [#27](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000/issues/27#issuecomment-5188667602) in [weekdaycare/immortalwrt-mt7981-cudy-tr3000](https://github.com/weekdaycare/immortalwrt-mt7981-cudy-tr3000)
 3. ℹ️ Labeled issue [#474](https://github.com/Richasy/Rodel.Player.Public/issues/474) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
 4. ℹ️ Assigned issue [#474](https://github.com/Richasy/Rodel.Player.Public/issues/474) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
